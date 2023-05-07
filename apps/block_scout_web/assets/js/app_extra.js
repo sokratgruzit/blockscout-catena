@@ -1,4 +1,4 @@
-import { isDarkMode } from './lib/dark_mode'
+import { isDarkMode } from './lib/dark_mode';
 
 function applyDarkMode () {
   if (isDarkMode()) {
