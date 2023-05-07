@@ -11,7 +11,7 @@ defmodule BlockScout.Mixfile do
       apps_path: "apps",
       deps: deps(),
       dialyzer: dialyzer(),
-      elixir: "~> 1.13",
+      elixir: "~> 1.12",
       preferred_cli_env: [
         credo: :test,
         dialyzer: :test
